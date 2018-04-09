@@ -1,0 +1,24 @@
+Conclusion:
+
+Task 1:
+
+QuickSort usually runs faster than mergesort when it's a latge and random data set.
+InsertionSort is faster when the data set is very small (usually less than 100)
+InsertionSort can be combined with other sorting algorithm to make the sorting time faster than before
+
+Task2:
+
+Running Speeding:
+QuickSort4 > QuickSort3 > QuickSort2 > QuickSort1
+QuickSort3 is very similar to QuickSort2
+
+Task3:
+We can make quickSort faster by choosing median method. And the more accurate(9 median) median sample we get, the faster and more stable quicksort will be.
+Heap Sort is slow here because of the input data doesn't work the best for it.
+
+Task4:
+My conclusion is as same as the one on www.sorting-algorithms.com
+InsertionSort could be the winner if K is relatively small
+As K grows, Quick Sort will be winner
+
+

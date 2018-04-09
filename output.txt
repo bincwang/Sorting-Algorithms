@@ -1,0 +1,51 @@
+Task 1:
+             100 %
+
+Merge Sort:10280ms  Merge Sort2:8122ms  Quick Sort:8403ms  Quick Sort2:6520ms  
+
+
+
+
+Task 2:
+  waiting    100 %
+
+Quick Sort:1614ms  Quick Sort2:1078ms  Quick Sort3:973ms  Quick Sort4:734ms  
+
+
+
+
+Task 3:
+  waiting    100 %
+
+Heap Sort:3322ms  Quick Sort:0ms  Quick Sort5:1140ms  Quick Sort6:926ms  Quick Sort4:0ms  
+
+Algorithm who has total time of zero is because they fails to complete(StackOverFlow)
+
+
+Task 4 Part 1:
+	          
+k=10
+           100 %
+
+QuickSort6:5100ms
+Heap Sort:47632ms
+Merge Sort:12865ms
+Natural Merge Sort:19340ms
+Insertion:5159ms
+
+
+
+
+Task 4 Part 2:
+	          
+k=100
+           100 %
+k=200
+           100 %
+
+QuickSort6:4981ms
+Heap Sort:47040ms
+Merge Sort:12718ms
+Natural Merge Sort:18927ms
+Insertion:5123ms
+
